@@ -117,3 +117,4 @@ jobs:
     - name: Terraform Creating and Update
       if: env.DESTROY != 'true'
       run: terraform apply -auto-approve -input=false
+      

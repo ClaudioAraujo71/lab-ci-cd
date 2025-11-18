@@ -7,3 +7,5 @@ Documentação para criação do laboratório (pipeline de infra): [Clique aqui!
 Documentação para criação do laboratório (pipeline de app): [Clique aqui!](./Labs/doc-app/README.md)
 
 ![](./Labs/doc-app/img/lab-cicd.png)
+
+teste
